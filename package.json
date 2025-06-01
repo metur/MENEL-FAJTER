@@ -1,7 +1,8 @@
 {
-  "name": "1",
-  "version": "1.0.0",
+  "name": "menel-fajter",
+  "version": "1.0.1",
   "main": "main.js",
+  "bin": "main.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
