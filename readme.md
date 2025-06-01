@@ -10,6 +10,7 @@
    ```
 2. Start the menelnia:
    ```
+   cd node_modules\menel-fajter\
    node main.js
    ```
 
