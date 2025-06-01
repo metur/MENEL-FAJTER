@@ -1,6 +1,6 @@
 # Menel Fajter
 
-**Menel Fajter** is a simple terminal game where your goal is to defeat as many opponents as possible within a time limit. Upgrade your skills, earn money, and fight your way to the top!
+**Menel Fajter** is a simple terminal game where your goal is to defeat as many menels as possible within a time limit. Upgrade your skills, earn money, and fight your way to the top!
 
 ## How to Run
 
@@ -8,7 +8,7 @@
    ```
    npm install
    ```
-2. Start the game:
+2. Start the menelnia:
    ```
    node main.js
    ```
@@ -18,4 +18,4 @@
 - Type `s` to start the game.
 - Type `q` to quit.
 
-Enjoy the Menelnia!
+Enjoy the meneling!
